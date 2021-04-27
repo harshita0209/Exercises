@@ -3,3 +3,4 @@ from view_solution import delete_key,display
 
 get_list()
 final_list=delete_key()
+# get_list()
